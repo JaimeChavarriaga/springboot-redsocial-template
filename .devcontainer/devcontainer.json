@@ -22,6 +22,7 @@
 		// para VS Code.
 		"vscode": {
 			"settings": { 
+				"plantuml.server": "https://plantuml.online/"
 			},
 			
 			"extensions": [
