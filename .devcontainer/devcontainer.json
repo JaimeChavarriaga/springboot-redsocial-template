@@ -26,7 +26,9 @@
 			
 			"extensions": [
 				"vscjava.vscode-java-pack",
-				"vmware.vscode-boot-dev-pack"
+				"vmware.vscode-boot-dev-pack",
+				"MermaidChart.vscode-mermaid-chart",
+				"jebbs.plantuml"
 			]
 		}
 	}
